@@ -1,2 +1,2 @@
 # Gendax
-gendax mdp
+🔁 Generateur Mot de passe avec Tkinter 
